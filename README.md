@@ -1,0 +1,1 @@
+Repo ini berisi jawaban terkait dengan pertanyaan di Data Engineering Zoomcamp - Homwork 1: https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/01-docker-terraform/homework.md
